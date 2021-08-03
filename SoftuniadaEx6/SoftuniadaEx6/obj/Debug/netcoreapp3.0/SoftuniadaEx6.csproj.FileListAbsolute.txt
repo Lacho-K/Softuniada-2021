@@ -1,0 +1,11 @@
+C:\Users\kolev\source\repos\SoftuniadaEx6\SoftuniadaEx6\bin\Debug\netcoreapp3.0\SoftuniadaEx6.exe
+C:\Users\kolev\source\repos\SoftuniadaEx6\SoftuniadaEx6\bin\Debug\netcoreapp3.0\SoftuniadaEx6.deps.json
+C:\Users\kolev\source\repos\SoftuniadaEx6\SoftuniadaEx6\bin\Debug\netcoreapp3.0\SoftuniadaEx6.runtimeconfig.json
+C:\Users\kolev\source\repos\SoftuniadaEx6\SoftuniadaEx6\bin\Debug\netcoreapp3.0\SoftuniadaEx6.runtimeconfig.dev.json
+C:\Users\kolev\source\repos\SoftuniadaEx6\SoftuniadaEx6\bin\Debug\netcoreapp3.0\SoftuniadaEx6.dll
+C:\Users\kolev\source\repos\SoftuniadaEx6\SoftuniadaEx6\bin\Debug\netcoreapp3.0\SoftuniadaEx6.pdb
+C:\Users\kolev\source\repos\SoftuniadaEx6\SoftuniadaEx6\obj\Debug\netcoreapp3.0\SoftuniadaEx6.csprojAssemblyReference.cache
+C:\Users\kolev\source\repos\SoftuniadaEx6\SoftuniadaEx6\obj\Debug\netcoreapp3.0\SoftuniadaEx6.AssemblyInfoInputs.cache
+C:\Users\kolev\source\repos\SoftuniadaEx6\SoftuniadaEx6\obj\Debug\netcoreapp3.0\SoftuniadaEx6.AssemblyInfo.cs
+C:\Users\kolev\source\repos\SoftuniadaEx6\SoftuniadaEx6\obj\Debug\netcoreapp3.0\SoftuniadaEx6.dll
+C:\Users\kolev\source\repos\SoftuniadaEx6\SoftuniadaEx6\obj\Debug\netcoreapp3.0\SoftuniadaEx6.pdb

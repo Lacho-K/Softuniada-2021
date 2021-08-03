@@ -1,0 +1,13 @@
+C:\Users\kolev\source\repos\SoftuniadaEx9\SoftuniadaEx9\bin\Debug\netcoreapp3.0\SoftuniadaEx9.exe
+C:\Users\kolev\source\repos\SoftuniadaEx9\SoftuniadaEx9\bin\Debug\netcoreapp3.0\SoftuniadaEx9.deps.json
+C:\Users\kolev\source\repos\SoftuniadaEx9\SoftuniadaEx9\bin\Debug\netcoreapp3.0\SoftuniadaEx9.runtimeconfig.json
+C:\Users\kolev\source\repos\SoftuniadaEx9\SoftuniadaEx9\bin\Debug\netcoreapp3.0\SoftuniadaEx9.runtimeconfig.dev.json
+C:\Users\kolev\source\repos\SoftuniadaEx9\SoftuniadaEx9\bin\Debug\netcoreapp3.0\SoftuniadaEx9.dll
+C:\Users\kolev\source\repos\SoftuniadaEx9\SoftuniadaEx9\bin\Debug\netcoreapp3.0\SoftuniadaEx9.pdb
+C:\Users\kolev\source\repos\SoftuniadaEx9\SoftuniadaEx9\obj\Debug\netcoreapp3.0\SoftuniadaEx9.AssemblyInfoInputs.cache
+C:\Users\kolev\source\repos\SoftuniadaEx9\SoftuniadaEx9\obj\Debug\netcoreapp3.0\SoftuniadaEx9.AssemblyInfo.cs
+C:\Users\kolev\source\repos\SoftuniadaEx9\SoftuniadaEx9\obj\Debug\netcoreapp3.0\SoftuniadaEx9.dll
+C:\Users\kolev\source\repos\SoftuniadaEx9\SoftuniadaEx9\obj\Debug\netcoreapp3.0\SoftuniadaEx9.pdb
+C:\Users\kolev\source\repos\SoftuniadaEx9\SoftuniadaEx9\obj\Debug\netcoreapp3.0\SoftuniadaEx9.csproj.AssemblyReference.cache
+C:\Users\kolev\source\repos\SoftuniadaEx9\SoftuniadaEx9\obj\Debug\netcoreapp3.0\SoftuniadaEx9.csproj.CoreCompileInputs.cache
+C:\Users\kolev\source\repos\SoftuniadaEx9\SoftuniadaEx9\obj\Debug\netcoreapp3.0\SoftuniadaEx9.genruntimeconfig.cache
