@@ -1,0 +1,11 @@
+C:\Users\kolev\source\repos\Softuniada\Softuniada\bin\Debug\netcoreapp3.0\Softuniada.exe
+C:\Users\kolev\source\repos\Softuniada\Softuniada\bin\Debug\netcoreapp3.0\Softuniada.deps.json
+C:\Users\kolev\source\repos\Softuniada\Softuniada\bin\Debug\netcoreapp3.0\Softuniada.runtimeconfig.json
+C:\Users\kolev\source\repos\Softuniada\Softuniada\bin\Debug\netcoreapp3.0\Softuniada.runtimeconfig.dev.json
+C:\Users\kolev\source\repos\Softuniada\Softuniada\bin\Debug\netcoreapp3.0\Softuniada.dll
+C:\Users\kolev\source\repos\Softuniada\Softuniada\bin\Debug\netcoreapp3.0\Softuniada.pdb
+C:\Users\kolev\source\repos\Softuniada\Softuniada\obj\Debug\netcoreapp3.0\Softuniada.csprojAssemblyReference.cache
+C:\Users\kolev\source\repos\Softuniada\Softuniada\obj\Debug\netcoreapp3.0\Softuniada.AssemblyInfoInputs.cache
+C:\Users\kolev\source\repos\Softuniada\Softuniada\obj\Debug\netcoreapp3.0\Softuniada.AssemblyInfo.cs
+C:\Users\kolev\source\repos\Softuniada\Softuniada\obj\Debug\netcoreapp3.0\Softuniada.dll
+C:\Users\kolev\source\repos\Softuniada\Softuniada\obj\Debug\netcoreapp3.0\Softuniada.pdb
